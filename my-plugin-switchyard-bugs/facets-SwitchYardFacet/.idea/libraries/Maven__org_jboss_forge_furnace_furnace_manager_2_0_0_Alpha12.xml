@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jboss.forge.furnace:furnace-manager:2.0.0.Alpha12">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/forge/furnace/furnace-manager/2.0.0.Alpha12/furnace-manager-2.0.0.Alpha12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/forge/furnace/furnace-manager/2.0.0.Alpha12/furnace-manager-2.0.0.Alpha12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/forge/furnace/furnace-manager/2.0.0.Alpha12/furnace-manager-2.0.0.Alpha12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
